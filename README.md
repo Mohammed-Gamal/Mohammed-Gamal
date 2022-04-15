@@ -33,4 +33,5 @@
 # ♨️ Interests
 - [x] Gaming
 - [x] Programming
-- [x] Body Building
+- [x] Bodybuilding
+- [x] Computer Science
