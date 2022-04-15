@@ -1,7 +1,7 @@
 # 📛 Hello there!
 <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="400" align="right">
 
-**🔳 Be Pioneer not number one, don't never lose hope!**
+> Be Pioneer not number one, don't never lose hope!
 
 **🔲 I’m Mohamed Gamal**
 
@@ -12,7 +12,7 @@
 **🔳 How to reach me: [LinkedIn](https://www.linkedin.com/in/mohamed-gamal-74192b1a7/), <a href="mailto:1Mohamed.Gamal54@gmail.com" target="_blank"> Gmail </a>**
 
 
-**🔲 Add me on: [Youtube](https://www.youtube.com/channel/UCX7eXM4O8h8QwjnE0Jr6uTw), [Discord](https://discord.com/logindiscord/) - *Grand#3236***
+**🔲 Add me on: [Youtube](https://www.youtube.com/channel/UCX7eXM4O8h8QwjnE0Jr6uTw), [Discord](https://discord.com/logindiscord/) - _Grand#3236_**
 
 <br><br> 
 ## <img src="https://media.giphy.com/media/5WILqPq29TyIkVCSej/giphy.gif" width="50">  Skills
@@ -28,3 +28,9 @@
   <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
 </div>
 <br/>
+<br/>
+
+# ♨️ Interests
+- [x] Gaming
+- [x] Programming
+- [x] Body Building
