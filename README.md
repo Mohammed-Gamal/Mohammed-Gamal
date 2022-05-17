@@ -41,6 +41,7 @@
 **🔳 🤝 Add me on: <!-- [Twitter](https://twitter.com/mohamed06242801), --> [Youtube](https://www.youtube.com/channel/UCX7eXM4O8h8QwjnE0Jr6uTw), [Discord](https://discord.com/logindiscord/) - _Grand#3236_**
 <br>
 <p align="left"> <a href="https://twitter.com/mohamed06242801" target="blank"><img src="https://img.shields.io/twitter/follow/mohamed06242801?logo=twitter&style=for-the-badge" alt="mohamed06242801" /></a> </p> <br><hr>
+<p><a href="https://www.buymeacoffee.com/1MohamedGa0"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="1MohamedGa0" /></a></p><br><br><br><br>
 
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohammed-gamal&show_icons=true&locale=en" alt="mohammed-gamal" />&nbsp;&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohammed-gamal&" alt="mohammed-gamal" /></p>
