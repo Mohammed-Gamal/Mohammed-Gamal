@@ -7,6 +7,7 @@
 <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="400" align="right">
 
 > Be Pioneer not number one, don't never lose hope! <br>
+> Comparison is thief of enjoyment :gloves: <br>
 > The Sky is my limit 🔥
 
 <!-- **🔲 I’m Mohamed Gamal** -->
