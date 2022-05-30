@@ -2,7 +2,10 @@
 <h1 align="center">Hi there 👋, I'm Mohamed Gamal</h1>
 <h4 align="center">A passionate frontend developer from Egypt</h4> <br>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mohammed-gamal&label=Profile%20views&color=0e75b6&style=flat" alt="mohammed-gamal" /> </p> <br>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=mohammed-gamal&label=Profile%20views&color=0e75b6&style=flat" alt="View Count" /> <br>
+  <img src="https://img.shields.io/badge/Powered%20By-Mohamed%20Gamal-blue" alt="Mohammed-Gamal" />
+</p> <br>
 
 <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="400" align="right">
 
