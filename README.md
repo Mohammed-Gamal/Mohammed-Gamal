@@ -9,13 +9,22 @@
 
 <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="400" align="right">
 
+
 > Be Pioneer not number one, don't never lose hope! <br>
 > Comparison is thief of enjoyment :gloves: <br>
-> The Sky is my limit 🔥
+> The sky is my limit 🔥
+
+<br>
+
+> As a Software Engineer, I would like to bring technology to make life easier and increase productivity.
+<br><br>
+> I also want to create great products which have good design architecture, high scalability and easy to maintain.
+
+<br><br>
 
 <!-- **🔲 I’m Mohamed Gamal** -->
 
-**🔳 👨‍💻 Web Developer and Computer Science Pioneer**
+**🔳 👨‍💻 Vue.js web developer enthusiast and Computer Science pioneer**
 
 **🔲 🌱 I’m currently learning and not working yet**
 
