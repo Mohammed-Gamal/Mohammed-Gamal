@@ -1,6 +1,9 @@
 <!-- # 📛 Hello there! -->
 <h1 align="center">Hi there 👋, I'm Mohamed Gamal</h1>
-<h4 align="center">A passionate frontend developer from Egypt</h4> <br>
+<h4 align="center">Just a guy with a laptop and a dream</h4>
+<!-- <h4 align="center">A passionate frontend developer from Egypt</h4> -->
+
+<br>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=mohammed-gamal&label=Profile%20views&color=0e75b6&style=flat" alt="View Count" /> <br>
