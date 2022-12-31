@@ -27,7 +27,7 @@
 
 <!-- **🔲 I’m Mohamed Gamal** -->
 
-**🔳 👨‍💻 Vue.js web developer enthusiast and Computer Science pioneer**
+**🔳 👨‍💻 Vue.js enthusiast and Computer Science pioneer**
 
 **🔲 🌱 I’m currently learning and not working yet**
 
