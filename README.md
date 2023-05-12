@@ -1,6 +1,7 @@
 <!-- # 📛 Hello there! -->
 <h1 align="center">Hi there 👋, I'm Mohamed Gamal</h1>
 <h4 align="center">Just a guy with a laptop and a dream</h4>
+<h3 align="center">It's all about learning not about competition</h3>
 <!-- <h4 align="center">A passionate frontend developer from Egypt</h4> -->
 
 <br>
@@ -13,7 +14,6 @@
 <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="400" align="right">
 
 
-> It's all about learning not about competition
 > Be Pioneer not number one, don't never lose hope! <br>
 > Comparison is thief of enjoyment :gloves: <br>
 > The sky is my limit 🔥
