@@ -13,6 +13,7 @@
 <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="400" align="right">
 
 
+> It's all about learning not about competition
 > Be Pioneer not number one, don't never lose hope! <br>
 > Comparison is thief of enjoyment :gloves: <br>
 > The sky is my limit 🔥
