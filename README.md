@@ -24,11 +24,15 @@
 <br><br>
 > I also want to create great products which have good design architecture, high scalability and easy to maintain.
 
-<br><br>
+<br>
 
 <!-- **🔲 I’m Mohamed Gamal** -->
 
-**🔳 👨‍💻 Vue.js enthusiast and Computer Science pioneer**
+**Location:** Somewhere between 1's and 0's
+
+<br>
+
+**🔳 👨‍💻 Cyber Security Engineer**
 
 **🔲 🌱 I’m currently learning and not working yet**
 
