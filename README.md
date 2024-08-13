@@ -32,7 +32,7 @@
 
 <br>
 
-**🔳 👨‍💻 Cyber Security Engineer**
+**🔳 👨‍💻 AI and ML Engineer**
 
 **🔲 🌱 I’m currently learning and not working yet**
 
