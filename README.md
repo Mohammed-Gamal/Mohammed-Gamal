@@ -34,7 +34,7 @@
 
 **🔳 👨‍💻 AI and ML Engineer**
 
-**🔲 🌱 I’m currently learning and not working yet**
+**🔲 🌱 Continuous learning is the key to success**
 
 **🔳 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/mohamed-gamal-74192b1a7/), <a href="mailto:1Mohamed.Gamal54@gmail.com" target="_blank"> Gmail </a>**
 
