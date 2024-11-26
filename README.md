@@ -32,7 +32,7 @@
 
 <br>
 
-**🔳 👨‍💻 AI and ML Engineer**
+**🔳 👨‍💻 AI Researcher & Software Engineer**
 
 **🔲 🌱 Continuous learning is the key to success**
 
